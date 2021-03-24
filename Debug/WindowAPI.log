@@ -1,0 +1,445 @@
+﻿  stdafx.cpp
+  accessory1.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\accessory1.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\accessory1.cpp(27,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  accessory2.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\accessory2.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\accessory2.cpp(27,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  accessory3.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\accessory3.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\accessory3.cpp(27,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  addax.cpp
+  andrew.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\andrew.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  animation.cpp
+  animationManager.cpp
+  assistantHunter.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\assistantHunter.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  drill1.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\drill1.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\drill1.cpp(27,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  drill2.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\drill2.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\drill2.cpp(27,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  drill3.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\drill3.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\drill3.cpp(27,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  effect.cpp
+  effectManager.cpp
+  enemy.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(192,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(193,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(195,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(196,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemy.cpp(148,35): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemy.cpp(148,28): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemy.cpp(148,24): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemy.cpp(148,20): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemy.cpp(154,30): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemy.cpp(158,30): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemy.cpp(212,31): warning C4554: '&': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemy.cpp(470,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemy.cpp(472,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemy.cpp(474,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemy.cpp(476,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemy.cpp(478,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemy.cpp(510,113): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemy.cpp(509,113): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemy.cpp(508,90): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemy.cpp(508,54): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemy.cpp(521,113): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemy.cpp(520,113): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemy.cpp(519,90): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemy.cpp(519,54): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemy.cpp(550,35): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemy.cpp(564,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  enemyManager.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(192,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(193,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(195,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(196,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemyManager.cpp(33,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemyManager.cpp(43,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemyManager.cpp(50,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemyManager.cpp(64,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemyManager.cpp(127,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemyManager.cpp(158,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemyManager.cpp(172,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemyManager.cpp(187,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\enemyManager.cpp(201,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  fantaSlime.cpp
+  firstMap.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(192,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(193,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(195,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(196,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\firstMap.cpp(93,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  gameNode.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\gameNode.cpp(114,34): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\gameNode.cpp(115,34): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\gameNode.cpp(146,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  helmet1.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\helmet1.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\helmet1.cpp(27,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  helmet2.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\helmet2.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\helmet2.cpp(27,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  helmet3.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\helmet3.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\helmet3.cpp(27,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  hunterYuna.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\hunterYuna.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  hunterYuri.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\hunterYuri.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  image.cpp
+  imageManager.cpp
+  iniData.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\iniData.cpp(49,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\iniData.cpp(44,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\iniData.cpp(47,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\iniData.cpp(66,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\iniData.cpp(69,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\iniData.cpp(84,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\iniData.cpp(87,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  keyManager.cpp
+  loading.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\loading.cpp(44,21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\loading.cpp(45,21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\loading.cpp(81,21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\loading.cpp(82,21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\loading.cpp(169,20): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\loading.cpp(191,63): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\loading.cpp(191,56): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\loading.cpp(203,68): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\loading.cpp(203,61): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\loading.cpp(212,54): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\loading.cpp(212,24): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  loadingScene.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\loadingScene.cpp(117,72): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  lobbyMap.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(192,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(193,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(195,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(196,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\lobbyMap.cpp(81,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  mainGame.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(192,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(193,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(195,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(196,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  mapClass.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(192,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(193,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(195,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(196,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  mapManager.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(192,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(193,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(195,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(196,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\mapManager.cpp(110,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  npcClass.cpp
+  npcManager.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(192,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(193,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(195,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(196,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\npcManager.cpp(60,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\npcManager.cpp(73,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\npcManager.cpp(79,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\npcManager.cpp(85,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\npcManager.cpp(99,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\npcManager.cpp(108,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\npcManager.cpp(117,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\npcManager.cpp(95,7): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  officerRobert.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\officerRobert.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  openingScene.cpp
+  player.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(192,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(193,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(195,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(196,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(24,7): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(25,7): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(27,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(27,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(61,12): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(170,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(222,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(222,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(222,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(222,13): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(299,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(299,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(298,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(308,12): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(310,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(310,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(334,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(352,22): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(353,22): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(526,17): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(535,17): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(597,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(606,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(606,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(607,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(607,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(617,35): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(617,28): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(648,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(723,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(906,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(932,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(934,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(936,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(939,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(940,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1020,25): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1039,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1075,19): warning C4244: '*=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1096,20): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1158,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1163,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1181,65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1181,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1185,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1185,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1189,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1189,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1193,65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1193,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1205,100): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1205,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1214,80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1214,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1426,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1426,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1427,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1465,21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1466,21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1477,22): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1478,22): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1489,22): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1490,22): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1498,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1556,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1556,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1560,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1560,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1564,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1564,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1568,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1568,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1577,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1707,26): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1719,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1731,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1787,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1787,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1789,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1789,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1791,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1791,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1786,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1788,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1790,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.cpp(1816,96): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  playerManager.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(192,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(193,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(195,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(196,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  pochi.cpp
+  코드를 생성하고 있습니다...
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\iniData.cpp(74): warning C4172: 지역 변수 또는 임시: data의 주소를 반환하고 있습니다.
+  컴파일하고 있습니다...
+  portina.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\portina.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  potion1.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\potion1.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\potion1.cpp(27,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  potion2.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\potion2.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\potion2.cpp(27,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  progressBar.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\progressBar.cpp(17,7): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\progressBar.cpp(18,7): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\progressBar.cpp(21,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\progressBar.cpp(21,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\progressBar.cpp(32,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\progressBar.cpp(33,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\progressBar.cpp(71,37): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  requi.cpp
+  sceneManager.cpp
+  secondMap.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(192,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(193,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(195,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(196,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\secondMap.cpp(74,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  selectScene.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(192,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(193,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(195,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(196,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\selectScene.cpp(147,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\selectScene.cpp(149,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  shield1.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shield1.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shield1.cpp(27,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  shield2.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shield2.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shield2.cpp(27,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  shield3.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shield3.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shield3.cpp(27,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  shop.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(192,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(193,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(195,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(196,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(56,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(61,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(71,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(77,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(83,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(89,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(138,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(141,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(152,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(241,30): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(251,30): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(262,25): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(292,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(314,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(336,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(412,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(450,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(465,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(471,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(488,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(494,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(514,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(522,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(533,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(540,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(548,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(559,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(570,24): warning C4806: '==': 안전하지 않은 연산입니다. 'bool' 형식의 값('int' 형식으로 확장)이 주어진 상수와 같을 수 없습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(574,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(594,24): warning C4806: '==': 안전하지 않은 연산입니다. 'bool' 형식의 값('int' 형식으로 확장)이 주어진 상수와 같을 수 없습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(627,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(629,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(635,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(637,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(645,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(647,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(675,24): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(678,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(688,29): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(692,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(702,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(704,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(714,29): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(718,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(729,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\shop.cpp(731,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  skill1Card.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\skill1Card.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\skill1Card.cpp(27,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  skill2Card.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\skill2Card.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\skill2Card.cpp(27,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  skill3Card.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\skill3Card.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\skill3Card.cpp(27,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  soundManager.cpp
+  sphinx.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(192,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(193,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(195,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(196,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\sphinx.cpp(102,113): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\sphinx.cpp(101,113): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\sphinx.cpp(100,90): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\sphinx.cpp(100,54): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\sphinx.cpp(113,113): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\sphinx.cpp(112,113): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\sphinx.cpp(111,90): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\sphinx.cpp(111,54): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  tile.cpp
+  timeManager.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\timeManager.cpp(48,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\timeManager.cpp(51,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\timeManager.cpp(54,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  timer.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  trickster.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(192,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(193,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(195,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(196,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\trickster.cpp(75,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\trickster.cpp(233,27): warning C4101: 'h' :참조되지 않은 지역 변수입니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\trickster.cpp(260,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  txtData.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\txtData.cpp(41,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\txtData.cpp(45,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\txtData.cpp(47,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\txtData.cpp(81,10): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\txtData.cpp(84,26): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\txtData.cpp(77,8): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  uiManager.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(192,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(193,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(195,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(196,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(446,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(497,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(511,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(515,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(521,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(524,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(527,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(530,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(533,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(536,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(539,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(542,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(545,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(548,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(551,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(555,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(566,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(570,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(574,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(586,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(596,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(606,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(615,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\uiManager.cpp(635,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  util.cpp
+  weapon1.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\weapon1.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\weapon1.cpp(27,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  weapon2.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\weapon2.cpp(34,10): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\weapon2.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\weapon2.cpp(27,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  weapon3.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\weapon3.cpp(34,10): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\weapon3.cpp(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\weapon3.cpp(27,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  winMain.cpp
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(192,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(193,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(195,21): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\player.h(196,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\txtData.cpp(51): warning C4172: 지역 변수 또는 임시: str의 주소를 반환하고 있습니다.
+  WindowAPI.vcxproj -> E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\Debug\WindowAPI.exe

@@ -1,0 +1,525 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="2D GAMEFRAMEWORK">
+      <UniqueIdentifier>{cb999dfc-8716-42f3-a595-a15c8577b355}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2D GAMEFRAMEWORK\매니져">
+      <UniqueIdentifier>{4857885e-e537-4843-b97c-b1fd1889f92c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="메인게임">
+      <UniqueIdentifier>{0f919e59-9e20-4582-83ed-4b23a7784a46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2D GAMEFRAMEWORK\이미지">
+      <UniqueIdentifier>{37b3c83e-3ea8-49ec-a027-6d27675dff4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2D GAMEFRAMEWORK\유틸">
+      <UniqueIdentifier>{1fb09a4b-9bb6-4d7b-9f77-db05c2674e81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2D GAMEFRAMEWORK\프로그래스바">
+      <UniqueIdentifier>{0b2a7c97-30d2-400c-8ffd-aa97cd3fe3a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2D GAMEFRAMEWORK\타이머">
+      <UniqueIdentifier>{dc7b55ac-44d6-4321-bd60-f58faad15e18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2D GAMEFRAMEWORK\INI데이터">
+      <UniqueIdentifier>{bce36849-b2f0-4c83-b4b2-262ee7b5fa14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2D GAMEFRAMEWORK\TXT데이터">
+      <UniqueIdentifier>{84dc2d12-ea9a-499a-b841-4d904e711e40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2D GAMEFRAMEWORK\로딩">
+      <UniqueIdentifier>{b12a4b13-6ea9-481e-9c84-82a185bbd7ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="메인게임\로딩화면">
+      <UniqueIdentifier>{5dad2188-bec9-4e50-8c35-d1bc022ec9a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2D GAMEFRAMEWORK\애니메이션">
+      <UniqueIdentifier>{f070204e-87c1-41b5-818d-29a3d13eefbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2D GAMEFRAMEWORK\이펙트">
+      <UniqueIdentifier>{c4d14047-581f-4a9f-86b5-c88498d12b5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="메인게임\맵">
+      <UniqueIdentifier>{eb208adf-6d9f-4778-865f-0adc0f9dfa6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="메인게임\플레이어">
+      <UniqueIdentifier>{a92af9aa-5167-49f2-8f6e-4934f2c08c00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="메인게임\아이템">
+      <UniqueIdentifier>{76a1698a-46b9-4be7-a48e-576e73e568ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="메인게임\에너미">
+      <UniqueIdentifier>{4f15234d-83e7-4a0f-bd16-1c28c4f2a43e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="메인게임\UI">
+      <UniqueIdentifier>{217cbc9e-8794-40b2-90ac-93813f31d8ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="메인게임\npc">
+      <UniqueIdentifier>{4a7ee32b-b3fb-400a-b4e5-161e949d67cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="메인게임\씬들">
+      <UniqueIdentifier>{c9203019-23c7-49c7-944a-05bd01339711}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="gameNode.h">
+      <Filter>2D GAMEFRAMEWORK</Filter>
+    </ClInclude>
+    <ClInclude Include="mainGame.h">
+      <Filter>메인게임</Filter>
+    </ClInclude>
+    <ClInclude Include="singletonBase.h">
+      <Filter>2D GAMEFRAMEWORK\매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="keyManager.h">
+      <Filter>2D GAMEFRAMEWORK\매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="randomFunction.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="image.h">
+      <Filter>2D GAMEFRAMEWORK\이미지</Filter>
+    </ClInclude>
+    <ClInclude Include="imageManager.h">
+      <Filter>2D GAMEFRAMEWORK\매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="util.h">
+      <Filter>2D GAMEFRAMEWORK\유틸</Filter>
+    </ClInclude>
+    <ClInclude Include="progressBar.h">
+      <Filter>2D GAMEFRAMEWORK\프로그래스바</Filter>
+    </ClInclude>
+    <ClInclude Include="timer.h">
+      <Filter>2D GAMEFRAMEWORK\타이머</Filter>
+    </ClInclude>
+    <ClInclude Include="txtData.h">
+      <Filter>2D GAMEFRAMEWORK\TXT데이터</Filter>
+    </ClInclude>
+    <ClInclude Include="iniData.h">
+      <Filter>2D GAMEFRAMEWORK\INI데이터</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneManager.h">
+      <Filter>2D GAMEFRAMEWORK\매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="timeManager.h">
+      <Filter>2D GAMEFRAMEWORK\매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="loading.h">
+      <Filter>2D GAMEFRAMEWORK\로딩</Filter>
+    </ClInclude>
+    <ClInclude Include="loadingScene.h">
+      <Filter>메인게임\로딩화면</Filter>
+    </ClInclude>
+    <ClInclude Include="soundManager.h">
+      <Filter>2D GAMEFRAMEWORK\매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="animation.h">
+      <Filter>2D GAMEFRAMEWORK\애니메이션</Filter>
+    </ClInclude>
+    <ClInclude Include="effect.h">
+      <Filter>2D GAMEFRAMEWORK\이펙트</Filter>
+    </ClInclude>
+    <ClInclude Include="effectManager.h">
+      <Filter>2D GAMEFRAMEWORK\매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="animationManager.h">
+      <Filter>2D GAMEFRAMEWORK\매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="mapManager.h">
+      <Filter>메인게임\맵</Filter>
+    </ClInclude>
+    <ClInclude Include="tile.h">
+      <Filter>메인게임\맵</Filter>
+    </ClInclude>
+    <ClInclude Include="lobbyMap.h">
+      <Filter>메인게임\맵</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>메인게임\플레이어</Filter>
+    </ClInclude>
+    <ClInclude Include="playerManager.h">
+      <Filter>메인게임\플레이어</Filter>
+    </ClInclude>
+    <ClInclude Include="mapClass.h">
+      <Filter>메인게임\맵</Filter>
+    </ClInclude>
+    <ClInclude Include="firstMap.h">
+      <Filter>메인게임\맵</Filter>
+    </ClInclude>
+    <ClInclude Include="npcManager.h">
+      <Filter>메인게임\npc</Filter>
+    </ClInclude>
+    <ClInclude Include="npcClass.h">
+      <Filter>메인게임\npc</Filter>
+    </ClInclude>
+    <ClInclude Include="trickster.h">
+      <Filter>메인게임\씬들</Filter>
+    </ClInclude>
+    <ClInclude Include="secondMap.h">
+      <Filter>메인게임\맵</Filter>
+    </ClInclude>
+    <ClInclude Include="assistantHunter.h">
+      <Filter>메인게임\npc</Filter>
+    </ClInclude>
+    <ClInclude Include="officerRobert.h">
+      <Filter>메인게임\npc</Filter>
+    </ClInclude>
+    <ClInclude Include="hunterYuri.h">
+      <Filter>메인게임\npc</Filter>
+    </ClInclude>
+    <ClInclude Include="hunterYuna.h">
+      <Filter>메인게임\npc</Filter>
+    </ClInclude>
+    <ClInclude Include="portina.h">
+      <Filter>메인게임\npc</Filter>
+    </ClInclude>
+    <ClInclude Include="andrew.h">
+      <Filter>메인게임\npc</Filter>
+    </ClInclude>
+    <ClInclude Include="developer.h">
+      <Filter>메인게임\npc</Filter>
+    </ClInclude>
+    <ClInclude Include="louis.h">
+      <Filter>메인게임\npc</Filter>
+    </ClInclude>
+    <ClInclude Include="item.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="itemDb.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy.h">
+      <Filter>메인게임\에너미</Filter>
+    </ClInclude>
+    <ClInclude Include="enemyManager.h">
+      <Filter>메인게임\에너미</Filter>
+    </ClInclude>
+    <ClInclude Include="fantaSlime.h">
+      <Filter>메인게임\에너미</Filter>
+    </ClInclude>
+    <ClInclude Include="addax.h">
+      <Filter>메인게임\에너미</Filter>
+    </ClInclude>
+    <ClInclude Include="pochi.h">
+      <Filter>메인게임\에너미</Filter>
+    </ClInclude>
+    <ClInclude Include="requi.h">
+      <Filter>메인게임\에너미</Filter>
+    </ClInclude>
+    <ClInclude Include="sphinx.h">
+      <Filter>메인게임\에너미</Filter>
+    </ClInclude>
+    <ClInclude Include="openingScene.h">
+      <Filter>메인게임\씬들</Filter>
+    </ClInclude>
+    <ClInclude Include="uiManager.h">
+      <Filter>메인게임\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="selectScene.h">
+      <Filter>메인게임\씬들</Filter>
+    </ClInclude>
+    <ClInclude Include="shop.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="weapon1.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="weapon2.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="weapon3.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="shield1.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="shield3.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="shield2.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="accessory2.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="accessory1.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="accessory3.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="drill1.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="drill2.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="drill3.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="helmet1.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="helmet3.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="commonMacroFunction.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="helmet2.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="potion2.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="potion1.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="skill1Card.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="skill2Card.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="skill3Card.h">
+      <Filter>메인게임\아이템</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="winMain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gameNode.cpp">
+      <Filter>2D GAMEFRAMEWORK</Filter>
+    </ClCompile>
+    <ClCompile Include="mainGame.cpp">
+      <Filter>메인게임</Filter>
+    </ClCompile>
+    <ClCompile Include="keyManager.cpp">
+      <Filter>2D GAMEFRAMEWORK\매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="image.cpp">
+      <Filter>2D GAMEFRAMEWORK\이미지</Filter>
+    </ClCompile>
+    <ClCompile Include="imageManager.cpp">
+      <Filter>2D GAMEFRAMEWORK\매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="util.cpp">
+      <Filter>2D GAMEFRAMEWORK\유틸</Filter>
+    </ClCompile>
+    <ClCompile Include="progressBar.cpp">
+      <Filter>2D GAMEFRAMEWORK\프로그래스바</Filter>
+    </ClCompile>
+    <ClCompile Include="timer.cpp">
+      <Filter>2D GAMEFRAMEWORK\타이머</Filter>
+    </ClCompile>
+    <ClCompile Include="txtData.cpp">
+      <Filter>2D GAMEFRAMEWORK\TXT데이터</Filter>
+    </ClCompile>
+    <ClCompile Include="iniData.cpp">
+      <Filter>2D GAMEFRAMEWORK\INI데이터</Filter>
+    </ClCompile>
+    <ClCompile Include="sceneManager.cpp">
+      <Filter>2D GAMEFRAMEWORK\매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="timeManager.cpp">
+      <Filter>2D GAMEFRAMEWORK\매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="loading.cpp">
+      <Filter>2D GAMEFRAMEWORK\로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="loadingScene.cpp">
+      <Filter>메인게임\로딩화면</Filter>
+    </ClCompile>
+    <ClCompile Include="soundManager.cpp">
+      <Filter>2D GAMEFRAMEWORK\매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="animation.cpp">
+      <Filter>2D GAMEFRAMEWORK\애니메이션</Filter>
+    </ClCompile>
+    <ClCompile Include="effect.cpp">
+      <Filter>2D GAMEFRAMEWORK\이펙트</Filter>
+    </ClCompile>
+    <ClCompile Include="effectManager.cpp">
+      <Filter>2D GAMEFRAMEWORK\매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="animationManager.cpp">
+      <Filter>2D GAMEFRAMEWORK\매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="mapManager.cpp">
+      <Filter>메인게임\맵</Filter>
+    </ClCompile>
+    <ClCompile Include="tile.cpp">
+      <Filter>메인게임\맵</Filter>
+    </ClCompile>
+    <ClCompile Include="lobbyMap.cpp">
+      <Filter>메인게임\맵</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>메인게임\플레이어</Filter>
+    </ClCompile>
+    <ClCompile Include="playerManager.cpp">
+      <Filter>메인게임\플레이어</Filter>
+    </ClCompile>
+    <ClCompile Include="mapClass.cpp">
+      <Filter>메인게임\맵</Filter>
+    </ClCompile>
+    <ClCompile Include="firstMap.cpp">
+      <Filter>메인게임\맵</Filter>
+    </ClCompile>
+    <ClCompile Include="npcManager.cpp">
+      <Filter>메인게임\npc</Filter>
+    </ClCompile>
+    <ClCompile Include="npcClass.cpp">
+      <Filter>메인게임\npc</Filter>
+    </ClCompile>
+    <ClCompile Include="trickster.cpp">
+      <Filter>메인게임\씬들</Filter>
+    </ClCompile>
+    <ClCompile Include="secondMap.cpp">
+      <Filter>메인게임\맵</Filter>
+    </ClCompile>
+    <ClCompile Include="assistantHunter.cpp">
+      <Filter>메인게임\npc</Filter>
+    </ClCompile>
+    <ClCompile Include="officerRobert.cpp">
+      <Filter>메인게임\npc</Filter>
+    </ClCompile>
+    <ClCompile Include="hunterYuri.cpp">
+      <Filter>메인게임\npc</Filter>
+    </ClCompile>
+    <ClCompile Include="hunterYuna.cpp">
+      <Filter>메인게임\npc</Filter>
+    </ClCompile>
+    <ClCompile Include="portina.cpp">
+      <Filter>메인게임\npc</Filter>
+    </ClCompile>
+    <ClCompile Include="andrew.cpp">
+      <Filter>메인게임\npc</Filter>
+    </ClCompile>
+    <ClCompile Include="developer.cpp">
+      <Filter>메인게임\npc</Filter>
+    </ClCompile>
+    <ClCompile Include="louis.cpp">
+      <Filter>메인게임\npc</Filter>
+    </ClCompile>
+    <ClCompile Include="item.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="itemDb.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy.cpp">
+      <Filter>메인게임\에너미</Filter>
+    </ClCompile>
+    <ClCompile Include="enemyManager.cpp">
+      <Filter>메인게임\에너미</Filter>
+    </ClCompile>
+    <ClCompile Include="fantaSlime.cpp">
+      <Filter>메인게임\에너미</Filter>
+    </ClCompile>
+    <ClCompile Include="addax.cpp">
+      <Filter>메인게임\에너미</Filter>
+    </ClCompile>
+    <ClCompile Include="pochi.cpp">
+      <Filter>메인게임\에너미</Filter>
+    </ClCompile>
+    <ClCompile Include="requi.cpp">
+      <Filter>메인게임\에너미</Filter>
+    </ClCompile>
+    <ClCompile Include="sphinx.cpp">
+      <Filter>메인게임\에너미</Filter>
+    </ClCompile>
+    <ClCompile Include="openingScene.cpp">
+      <Filter>메인게임\씬들</Filter>
+    </ClCompile>
+    <ClCompile Include="uiManager.cpp">
+      <Filter>메인게임\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="selectScene.cpp">
+      <Filter>메인게임\씬들</Filter>
+    </ClCompile>
+    <ClCompile Include="shop.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="weapon1.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="weapon2.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="weapon3.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="shield1.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="shield3.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="shield2.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="accessory2.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="accessory1.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="accessory3.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="drill1.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="drill2.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="drill3.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="helmet1.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="helmet2.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="helmet3.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="potion2.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="potion1.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="skill1Card.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="skill2Card.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="skill3Card.cpp">
+      <Filter>메인게임\아이템</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

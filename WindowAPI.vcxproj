@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{B4583114-D310-4990-8F33-8273A74B02A7}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>WindowAPI</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+    <UseOfMfc>false</UseOfMfc>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="accessory1.h" />
+    <ClInclude Include="accessory2.h" />
+    <ClInclude Include="accessory3.h" />
+    <ClInclude Include="addax.h" />
+    <ClInclude Include="andrew.h" />
+    <ClInclude Include="animation.h" />
+    <ClInclude Include="animationManager.h" />
+    <ClInclude Include="assistantHunter.h" />
+    <ClInclude Include="commonMacroFunction.h" />
+    <ClInclude Include="developer.h" />
+    <ClInclude Include="drill1.h" />
+    <ClInclude Include="drill2.h" />
+    <ClInclude Include="drill3.h" />
+    <ClInclude Include="effect.h" />
+    <ClInclude Include="effectManager.h" />
+    <ClInclude Include="enemy.h" />
+    <ClInclude Include="enemyManager.h" />
+    <ClInclude Include="fantaSlime.h" />
+    <ClInclude Include="firstMap.h" />
+    <ClInclude Include="gameNode.h" />
+    <ClInclude Include="helmet1.h" />
+    <ClInclude Include="helmet2.h" />
+    <ClInclude Include="helmet3.h" />
+    <ClInclude Include="hunterYuna.h" />
+    <ClInclude Include="hunterYuri.h" />
+    <ClInclude Include="image.h" />
+    <ClInclude Include="imageManager.h" />
+    <ClInclude Include="iniData.h" />
+    <ClInclude Include="item.h" />
+    <ClInclude Include="itemDb.h" />
+    <ClInclude Include="keyManager.h" />
+    <ClInclude Include="loading.h" />
+    <ClInclude Include="loadingScene.h" />
+    <ClInclude Include="lobbyMap.h" />
+    <ClInclude Include="louis.h" />
+    <ClInclude Include="mainGame.h" />
+    <ClInclude Include="mapClass.h" />
+    <ClInclude Include="mapManager.h" />
+    <ClInclude Include="npcClass.h" />
+    <ClInclude Include="npcManager.h" />
+    <ClInclude Include="officerRobert.h" />
+    <ClInclude Include="openingScene.h" />
+    <ClInclude Include="player.h" />
+    <ClInclude Include="playerManager.h" />
+    <ClInclude Include="pochi.h" />
+    <ClInclude Include="portina.h" />
+    <ClInclude Include="potion1.h" />
+    <ClInclude Include="potion2.h" />
+    <ClInclude Include="progressBar.h" />
+    <ClInclude Include="randomFunction.h" />
+    <ClInclude Include="requi.h" />
+    <ClInclude Include="sceneManager.h" />
+    <ClInclude Include="secondMap.h" />
+    <ClInclude Include="selectScene.h" />
+    <ClInclude Include="shield1.h" />
+    <ClInclude Include="shield2.h" />
+    <ClInclude Include="shield3.h" />
+    <ClInclude Include="shop.h" />
+    <ClInclude Include="singletonBase.h" />
+    <ClInclude Include="skill1Card.h" />
+    <ClInclude Include="skill2Card.h" />
+    <ClInclude Include="skill3Card.h" />
+    <ClInclude Include="soundManager.h" />
+    <ClInclude Include="sphinx.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="tile.h" />
+    <ClInclude Include="timeManager.h" />
+    <ClInclude Include="timer.h" />
+    <ClInclude Include="trickster.h" />
+    <ClInclude Include="txtData.h" />
+    <ClInclude Include="uiManager.h" />
+    <ClInclude Include="util.h" />
+    <ClInclude Include="weapon1.h" />
+    <ClInclude Include="weapon2.h" />
+    <ClInclude Include="weapon3.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="accessory1.cpp" />
+    <ClCompile Include="accessory2.cpp" />
+    <ClCompile Include="accessory3.cpp" />
+    <ClCompile Include="addax.cpp" />
+    <ClCompile Include="andrew.cpp" />
+    <ClCompile Include="animation.cpp" />
+    <ClCompile Include="animationManager.cpp" />
+    <ClCompile Include="assistantHunter.cpp" />
+    <ClCompile Include="developer.cpp" />
+    <ClCompile Include="drill1.cpp" />
+    <ClCompile Include="drill2.cpp" />
+    <ClCompile Include="drill3.cpp" />
+    <ClCompile Include="effect.cpp" />
+    <ClCompile Include="effectManager.cpp" />
+    <ClCompile Include="enemy.cpp" />
+    <ClCompile Include="enemyManager.cpp" />
+    <ClCompile Include="fantaSlime.cpp" />
+    <ClCompile Include="firstMap.cpp" />
+    <ClCompile Include="gameNode.cpp" />
+    <ClCompile Include="helmet1.cpp" />
+    <ClCompile Include="helmet2.cpp" />
+    <ClCompile Include="helmet3.cpp" />
+    <ClCompile Include="hunterYuna.cpp" />
+    <ClCompile Include="hunterYuri.cpp" />
+    <ClCompile Include="image.cpp" />
+    <ClCompile Include="imageManager.cpp" />
+    <ClCompile Include="iniData.cpp" />
+    <ClCompile Include="item.cpp" />
+    <ClCompile Include="itemDb.cpp" />
+    <ClCompile Include="keyManager.cpp" />
+    <ClCompile Include="loading.cpp" />
+    <ClCompile Include="loadingScene.cpp" />
+    <ClCompile Include="lobbyMap.cpp" />
+    <ClCompile Include="louis.cpp" />
+    <ClCompile Include="mainGame.cpp" />
+    <ClCompile Include="mapClass.cpp" />
+    <ClCompile Include="mapManager.cpp" />
+    <ClCompile Include="npcClass.cpp" />
+    <ClCompile Include="npcManager.cpp" />
+    <ClCompile Include="officerRobert.cpp" />
+    <ClCompile Include="openingScene.cpp" />
+    <ClCompile Include="player.cpp" />
+    <ClCompile Include="playerManager.cpp" />
+    <ClCompile Include="pochi.cpp" />
+    <ClCompile Include="portina.cpp" />
+    <ClCompile Include="potion1.cpp" />
+    <ClCompile Include="potion2.cpp" />
+    <ClCompile Include="progressBar.cpp" />
+    <ClCompile Include="requi.cpp" />
+    <ClCompile Include="sceneManager.cpp" />
+    <ClCompile Include="secondMap.cpp" />
+    <ClCompile Include="selectScene.cpp" />
+    <ClCompile Include="shield1.cpp" />
+    <ClCompile Include="shield2.cpp" />
+    <ClCompile Include="shield3.cpp" />
+    <ClCompile Include="shop.cpp" />
+    <ClCompile Include="skill1Card.cpp" />
+    <ClCompile Include="skill2Card.cpp" />
+    <ClCompile Include="skill3Card.cpp" />
+    <ClCompile Include="soundManager.cpp" />
+    <ClCompile Include="sphinx.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="tile.cpp" />
+    <ClCompile Include="timeManager.cpp" />
+    <ClCompile Include="timer.cpp" />
+    <ClCompile Include="trickster.cpp" />
+    <ClCompile Include="txtData.cpp" />
+    <ClCompile Include="uiManager.cpp" />
+    <ClCompile Include="util.cpp" />
+    <ClCompile Include="weapon1.cpp" />
+    <ClCompile Include="weapon2.cpp" />
+    <ClCompile Include="weapon3.cpp" />
+    <ClCompile Include="winMain.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

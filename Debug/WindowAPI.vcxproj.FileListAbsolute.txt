@@ -1,0 +1,2 @@
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\Debug\WindowAPI.exe
+E:\SGA겜프(VS2013)\API\개인 1달 포폴\갠포폴\WindowAPI\Debug\WindowAPI.pdb
